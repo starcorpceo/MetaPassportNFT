@@ -24,7 +24,7 @@ module.exports = {
   },
   etherscan: {
     // Your API key for Etherscan
-    // Obtain one at https://etherscan.io/
+    // Obtain one at https://polygonscan.com/
     apiKey: "YOUR_API_KEY",
   },
 
